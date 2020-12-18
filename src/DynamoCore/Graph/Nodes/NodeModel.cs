@@ -18,7 +18,6 @@ using Dynamo.Migration;
 using Dynamo.Scheduler;
 using Dynamo.Selection;
 using Dynamo.Utilities;
-using Dynamo.Visualization;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 using ProtoCore.AST.AssociativeAST;
